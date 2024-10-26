@@ -1,7 +1,7 @@
 # About Me:
 * Working on the project Link-Admin<br> 
 * Noob Ethical Hacker<br>
-* A Python, Bash scripting, HTML, CSS Programmer<br>
+* A Python, Bash scripting, HTML, CSS, Pascal Programmer<br>
 * Mostly using python for programming<br>
 
 
